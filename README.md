@@ -46,11 +46,11 @@ Tools Used
 
 Project Status
 
-- ✅ Data sources identified
-- 🟡 Data collection in progress
-- 🔲 Exploratory analysis (EDA)
-- 🔲 Dashboard development
-- 🔲 Business insights & recommendations
+-  Data sources identified
+-  Data collection in progress
+-  Exploratory analysis (EDA)
+- Dashboard development
+- Business insights & recommendations
 
 
 
