@@ -1,8 +1,9 @@
-📁 data-analyst-job-location-study/
-├── data/
-├── notebooks/
-├── visuals/
-├── scripts/
-└── README.md
+📁 streaming-wars-analysis/
+├── data/                  → Raw + cleaned datasets
+├── notebooks/             → Python/Jupyter notebooks
+├── visuals/               → Charts, Tableau dashboard screenshots
+├── scripts/               → Scraping scripts or APIs
+└── README.md              → Project story and documentation
+
 
 
